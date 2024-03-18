@@ -1,1 +1,10 @@
-An expense tracker is a desktop application that keeps track of all your expenses and stores all the information regarding them, including the person to whom you have paid the money (also called payee) and the reason why you paid the money. The objective of this project is to create a GUI based Expense Tracker.
+# expense-tracker
+
+## UML
+
+![UML](https://github.com/ccoeder/expense-tracker/blob/master/documents/Expense%20Tracker%20UML.png)
+
+## Db Diagram
+
+![Db Diagram](https://github.com/ccoeder/expense-tracker/blob/master/documents/Expense%20Tracker%20Db%20Diagram.png)
+
